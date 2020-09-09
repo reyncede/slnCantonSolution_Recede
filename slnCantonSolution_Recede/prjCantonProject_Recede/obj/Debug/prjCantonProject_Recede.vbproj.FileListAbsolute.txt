@@ -1,0 +1,12 @@
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\bin\Debug\prjCantonProject_Recede.exe.config
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\bin\Debug\prjCantonProject_Recede.exe
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\bin\Debug\prjCantonProject_Recede.pdb
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\bin\Debug\prjCantonProject_Recede.xml
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.vbprojAssemblyReference.cache
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.frmMain.resources
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.Resources.resources
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.vbproj.GenerateResource.cache
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.vbproj.CoreCompileInputs.cache
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.exe
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.xml
+C:\Users\donta\source\repos\slnCantonSolution_Recede\prjCantonProject_Recede\obj\Debug\prjCantonProject_Recede.pdb
